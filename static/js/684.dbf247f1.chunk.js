@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmovies_app=self.webpackChunkmovies_app||[]).push([[684],{684:(e,a,s)=>{s.r(a),s.d(a,{default:()=>p});s(43),s(403);var t=s(543),r=s(579);const p=e=>{let{setSearchTerm:a}=e;return(0,r.jsx)("input",{type:"text",placeholder:t.lZ,className:"search-bar",onChange:e=>{a(e.target.value)},autoFocus:!0})}}}]);
+//# sourceMappingURL=684.dbf247f1.chunk.js.map
